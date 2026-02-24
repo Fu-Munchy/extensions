@@ -2761,6 +2761,10 @@ version = "0.1.0"
 submodule = "extensions/pica200"
 version = "0.0.2"
 
+[pico-8]
+submodule = "extensions/pico-8-zed"
+version = "0.0.1"
+
 [pigs-in-space]
 submodule = "extensions/pigs-in-space"
 version = "0.1.0"
