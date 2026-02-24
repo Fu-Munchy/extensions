@@ -4069,3 +4069,6 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
+[submodule "pico-8-zed"]
+	path = pico-8-zed
+	url = https://github.com/Fu-Munchy/pico-8-zed
